@@ -1,4 +1,4 @@
-# Data-Driven Digital Twin for Development of Smart Sustainable Cities. Case Study: ˚ Alesund, Norway
+# Data-Driven Digital Twin for Development of Smart Sustainable Cities. Case Study: Ålesund, Norway
 
 We have used a GIS-based model to 3D-visualize household energy consumption in Ålesund using the Unity 3D game engine. In a GIS-based model possible to have a flexible energy model which is applicable to different energy scenarios on the urban scale. Recently, 3D city modeling with game engines like Unity 3D has been increased for better urban data visualization and support of applications that involve urban planning, traffic control, navigation, and other city services. In this application, two visualization methods are used to illustrate the energy amount and the user interface will be a floating red scroll bar as shown below.
 
