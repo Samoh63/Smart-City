@@ -3,7 +3,7 @@
 We have used a GIS-based model to 3D-visualize household energy consumption in Ålesund using the Unity 3D game engine. In a GIS-based model possible to have a flexible energy model which is applicable to different energy scenarios on the urban scale. Recently, 3D city modeling with game engines like Unity 3D has been increased for better urban data visualization and support of applications that involve urban planning, traffic control, navigation, and other city services. In this application, two visualization methods are used to illustrate the energy amount and the user interface will be a floating red scroll bar as shown below.
 
 <p align="center">
-<img  src="./Images/Picture16.png">
+<img  width="200" height="400" src="./Images/Picture16.png">
 </p>
 
 The floating scroll has enclosed methods, type, start, and end date of energy data visualization. In the designed interface for the methods section, if we choose the Colored Building at a specific time, for example in 2017 during the January, houses with the highest energy consumption will be shown in red, and houses with the lowest energy consumption will be shown in green, and the others will be colored as a spectrum between red and green. The colored buildings are demonstrated in Figure below. This 3D energy visualization of the building can show the future retrofitting scenarios for each house. Also, this type of visualization gives the users a good vision to understand the distribution of energy consumption of buildings in an area and with a closer look at details, they find out the area with higher energy consumption. This view can help to make a better decision about increasing the grid capacity or energy flexibility in a neighborhood.
